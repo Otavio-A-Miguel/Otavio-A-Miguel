@@ -9,7 +9,7 @@ Busco constantemente aprender novas ferramentas e linguagens que contribuam para
 
 ---
 
-### 🚀 Tecnologias e Ferramentas que estou aprendendo
+### 🚀 Tecnologias e Ferramentas que estou Aprendendo
 
 <div>
   <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
